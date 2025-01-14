@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cal1ber
-- 👀 I’m interested in lua-scripting, python-programming, offensive-cybersec, pentesting
-- 🌱 I’m currently learning networking-administration, lua-scripting
-- 💞️ I’m looking to collaborate on lua-scripting
+- 👀 I’m interested in lua-scripting, python-programming, offensive-cybersec, pentesting.
+- 🌱 I’m currently learning OSCP,CEHT, Offensive Pentesting, lua-scripting and python.
+- 💞️ I’m looking to collaborate on lua-scripting or cybersecurity projects.
 - 📫 How to reach me calibercreativity@gmail.com
 
 <!---
